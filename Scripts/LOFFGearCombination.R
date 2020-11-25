@@ -59,7 +59,7 @@ rm(CanadaGearTypeGen, ChileGearTypeGen, EcuadorGearTypeGen,
 #No grouping by country here; gives the same data frame as above
 
 #Find the number of different general geartypes in fisheries across countries
-GenGearTypeAcrossCountry <- GearTypeGenAll %>%
+GenGearTypeAcrossCountry <- GenGearTypeAll %>%
   group_by(GearType) %>%
   summarize(Frequency = sum(Frequency, na.rm = T)) %>%
   arrange(desc(Frequency))

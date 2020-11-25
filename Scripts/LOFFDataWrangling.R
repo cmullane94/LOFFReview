@@ -2,16 +2,16 @@ library(plyr)
 library(tidyverse)
 
 #Countries: Canada, Chile, Ecuador, Iceland, Norway, Vietnam, Fiji, Honduras, Thailand
-###Just change country and run full script
+###Set 'country' equal to one of these values and run the rest of the script
 country <- 'Canada'
-country <- 'Chile'
-country <- 'Ecuador'
-country <- 'Iceland'
-country <- 'Norway'
-country <- 'Vietnam'
-country <- 'Fiji'
-country <- 'Honduras'
-country <- 'Thailand'
+#country <- 'Chile'
+#country <- 'Ecuador'
+#country <- 'Iceland'
+#country <- 'Norway'
+#country <- 'Vietnam'
+#country <- 'Fiji'
+#country <- 'Honduras'
+#country <- 'Thailand'
 ##########################Specific Gear Type Analysis##########################
 #Read in data and setting empty cells as NA
 loff <- read.csv(paste('./Data/InputData/LOFF', country, '.csv', sep =''), 

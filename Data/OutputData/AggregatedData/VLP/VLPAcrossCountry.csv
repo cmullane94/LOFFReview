@@ -1,25 +1,24 @@
 "GearType","Vessels","Licenses","Participants","VLPTotal"
 "Gillnets and entangling nets (not specified), (Demersal)",30780,30065,0,60845
 "Trawls (not specified), (Bottom)",22609,22787,14727,60123
+"Gillnets and entangling nets (not specified), (Pelagic)",26107,25619,4,51730
 "Handlines and hand­operated pole­ and­lines, (Midwater), Surrounding nets (not specified), (Pelagic), single and/or pair trawl, (Demersal)",24615,24615,0,49230
 "Purse seines, (Pelagic)",14686,13969,2309,30964
-"Gillnets and entangling nets (not specified), (Pelagic) ",13444,13444,0,26888
-"Gillnets and entangling nets (not specified), (Pelagic)",12663,12175,4,24842
 "Gillnets and entangling nets (not specified), (Bottom)",8875,10460,1728,21063
 "Longlines (not specified), (Bottom)",1329,1794,7405,10528
 "Set gillnets/set nets (anchored), (Bottom)",3832,2756,2454,9042
-"Beam trawls, (Demersal),",3555,3555,0,7110
+"Beam trawls, (Demersal), Otter trawls (not specified), (Demersal),",3555,3555,0,7110
 "Longlines (not specified), (Demersal)",3484,0,0,3484
 "Gillnets and entangling nets (not specified), (Surface)",1500,1700,200,3400
 "Set gillnets/set nets (anchored), (Surface)",1324,1336,150,2810
 "Longlines (not specified), (Pelagic)",642,1595,1,2238
 "Gillnets and entangling nets (not specified), (Surface), Set gillnets/set nets (anchored), (Pelagic)",0,1947,204,2151
 "Purse seines, (Demersal)",814,814,0,1628
-"Gillnets and entangling nets (not specified), (Demersal),",787,787,0,1574
+"Gillnets and entangling nets (not specified), (Demersal), Gillnets and entangling nets (not specified), (Pelagic)",787,787,0,1574
 "Set longlines, (Pelagic)",90,60,950,1100
 "Set gillnets/set nets (anchored), (Pelagic)",0,984,40,1024
+"Purse seines, (Surface)",749,55,55,859
 "Fixed gillnets (on stakes), (Demersal)",285,285,285,855
-"Purse seines, (Surface)",688,55,55,798
 "Fixed gillnets (on stakes), (Pelagic), Set gillnets/set nets (anchored), (Pelagic)",0,0,356,356
 "Fixed gillnets (on stakes), (Bottom), Set gillnets/set nets (anchored), (Bottom)",0,319,0,319
 "Purse seines, (Midwater), Purse seines, (Surface)",282,0,0,282
@@ -33,8 +32,6 @@
 "Midwater trawls (not specified), (Midwater)",19,75,1,95
 "Longlines (not specified), (Benthic)",46,46,0,92
 "Longlines (not specified), (Bottom), Trolling lines, (Bottom)",0,78,0,78
-"Purse seines, (Surface)
-",61,0,0,61
 "Bottom trawls (not specified), (Bottom), Midwater trawls (not specified), (Midwater)",53,0,0,53
 "Bottom trawls (not specified), (Bottom)",26,7,7,40
 "Barriers, fences, weirs, etc., (Pelagic), Beach seines, (Pelagic), Other (Please Specify) shut­off / stop seine, (Pelagic), trap nets/stationary nets, (Pelagic)",0,30,0,30
@@ -55,5 +52,3 @@
 "Gillnets and entangling nets (not specified), (Midwater)",0,0,0,0
 "Midwater trawls (not specified), (Pelagic)",0,0,0,0
 "Nephrops trawl (bottom)",0,0,0,0
-"Otter trawls (not specified), (Demersal),",0,0,0,0
-"single and/or pair trawl, (Demersal)",0,0,0,0
